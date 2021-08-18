@@ -11,6 +11,7 @@ psycopg2-binary = "^2.8.6"
 colour = "^0.1.5"
 Pillow = "^8.3.1"
 prettytable = "^2.1.0"
+boto3 = "^1.18.15"
 
 [tool.poetry.dev-dependencies]
 
